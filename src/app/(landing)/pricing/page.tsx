@@ -46,7 +46,7 @@ const Page = () => {
         <div className="mx-auto max-w-2xl sm:text-center">
           <Heading className="text-center">Simple no-tricks pricing</Heading>
           <p className="mt-6 text-base/7 text-gray-600 max-w-prose text-center text-pretty">
-            We hate subscriptions. And chances are, you do too. That's why we
+            We hate subscriptions. And chances are, you do too. That is why we
             offer lifetime access to PingPanda for a one-time payment.
           </p>
         </div>
@@ -64,7 +64,7 @@ const Page = () => {
             </p>
             <div className="mt-10 flex items-center gap-x-4">
               <h4 className="flex-none text-sm font-semibold leading-6 text-brand-600">
-                What's included
+                What is included
               </h4>
               <div className="h-px flex-auto bg-gray-100" />
             </div>
